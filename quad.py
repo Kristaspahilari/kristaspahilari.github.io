@@ -1,5 +1,5 @@
 import math
-def solve_quadratic(a,b,c,d,x):
+def solve_quadratic(a,b,c):
   a = int(input(" a: 1 ")
   b = int(input("b: 5 " )
   c = int(input("c:6")
